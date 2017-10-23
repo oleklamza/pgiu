@@ -1,0 +1,1 @@
+Przykład do zajęć pochodzi z książki ["Projektowanie stron internetowych" Jeniffer Robbins, Helion, Gliwice 2014](http://helion.pl/ksiazki/projektowanie-stron-internetowych-przewodnik-dla-poczatkujacych-webmasterow-po-html5-css3-i-grafic-jennifer-niederst-robbins,prsti2.htm "Książka").
